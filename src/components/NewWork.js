@@ -3,8 +3,7 @@ import React, {Component} from "react";
      render() {
          return (
              <div>
-wq
-
+                 <h1>New Work</h1>
                  <h3>Sada sam sa developa!</h3>
                  <p>izmena iz code</p>
                  <p>Izmena za conflict leva ne bi trebalo da bude</p>
