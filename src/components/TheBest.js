@@ -6,7 +6,7 @@ class TheBest extends Component {
             <div>
                 <h1>Nova komponenta</h1>
                 <p>izmena istovremeno ali desna</p>
-                Perica 2
+                Perica 1
             </div>
         );
     }
