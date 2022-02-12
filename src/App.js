@@ -1,5 +1,6 @@
 import React, {Component} from "react";
 import NewWork from "./components/NewWork";
+import TheBest from "./components/TheBest";
 
 class App extends Component {
     render() {
@@ -7,6 +8,7 @@ class App extends Component {
             <div>
                 <h1>App component</h1>
                 <NewWork />
+                <TheBest />
             </div>
 
         )
