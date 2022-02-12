@@ -10,6 +10,7 @@ import React, {Component} from "react";
                  <p>Opet izmena istovremeno leva</p>
                  <p>igramo se konflikta</p>
                  asdasd
+                 <p>I mi se desno igramo konflikta</p>
              </div>
          )
      }
