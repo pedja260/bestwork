@@ -9,8 +9,8 @@ import React, {Component} from "react";
                  <p>Izmena za conflict leva ne bi trebalo da bude</p>
                  <p>Opet izmena istovremeno leva</p>
                  <p>igramo se konflikta</p>
-                 asdasd
-                 <p>I mi se desno igramo konflikta</p>
+
+
              </div>
          )
      }

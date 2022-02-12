@@ -10,7 +10,6 @@ class TheBest extends Component {
                 <p>izmena istovremeno ali desna</p>
                 Perica 1
                 <p>Novo lice levo</p>
-                <p>ponovo desno</p>
             </div>
         );
     }
