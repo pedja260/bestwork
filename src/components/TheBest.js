@@ -4,7 +4,7 @@ class TheBest extends Component {
     render() {
         return (
             <div>
-                <h1>Nova komponenta</h1>
+
                 <h3>Ponovo levo</h3>
                 <h3>Podnaslov</h3>
                 <p>izmena istovremeno ali desna</p>
