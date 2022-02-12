@@ -5,6 +5,7 @@ class TheBest extends Component {
         return (
             <div>
                 <h1>Nova komponenta</h1>
+                <p>izmena istovremeno ali desna</p>
             </div>
         );
     }
