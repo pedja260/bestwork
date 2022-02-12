@@ -5,7 +5,7 @@ class TheBest extends Component {
         return (
             <div>
 
-                <h3>Ponovo levo</h3>
+                <h3>Ponovo levo 2</h3>
                 <h3>Podnaslov</h3>
                 <p>izmena istovremeno ali desna</p>
                 Perica 1
