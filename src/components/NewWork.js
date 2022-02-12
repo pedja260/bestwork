@@ -8,6 +8,7 @@ import React, {Component} from "react";
                  <p>izmena iz code</p>
                  <p>Izmena za conflict leva ne bi trebalo da bude</p>
                  <p>Opet izmena istovremeno leva</p>
+                 <p>igramo se konflikta</p>
                  asdasd
              </div>
          )
