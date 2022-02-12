@@ -3,6 +3,7 @@ import React, {Component} from "react";
      render() {
          return (
              <div>
+wq
 
                  <h3>Sada sam sa developa!</h3>
                  <p>izmena iz code</p>
