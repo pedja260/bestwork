@@ -5,6 +5,7 @@ import React, {Component} from "react";
              <div>
                  <h1>New Work</h1>
                  <h3>Sada sam sa developa!</h3>
+                 <p>izmena iz code</p>
              </div>
          )
      }
