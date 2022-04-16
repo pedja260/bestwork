@@ -4,10 +4,10 @@ import React, {Component} from "react";
          return (
              <div>
                  <h1>New Work 3</h1>
-                 <h2>Druga izmena</h2>
+                 <h2>treca izmena izmena</h2>
                  <h3>Sada sam sa developa!</h3>
                  <p>izmena iz code</p>
-                 <p>Izmena za conflict leva ne bi trebalo da bude</p>
+                 <p>IzmenaTza conflict leva ne bi trebalo da bude</p>
                  <p>Opet izmena istovremeno leva</p>
                  <p>igramo se konflikta</p>
 
