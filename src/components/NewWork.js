@@ -3,7 +3,7 @@ import React, {Component} from "react";
      render() {
          return (
              <div>
-                 <h1>New Work 2</h1>
+                 <h1>New Work 3</h1>
                  <h2>Druga izmena</h2>
                  <h3>Sada sam sa developa!</h3>
                  <p>izmena iz code</p>
