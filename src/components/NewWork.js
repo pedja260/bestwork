@@ -10,6 +10,9 @@ import React, {Component} from "react";
                  <h2>Stanje x y z</h2>
                  <h2>treca izmena izmena</h2>
                  <h3>Sada sam sa developa!</h3>
+                 <div>
+                     <p>dodao u main grani drugo</p>
+                 </div>
                  <p>izmena iz code</p>
                  <p>IzmenaTza conflict leva ne bi trebalo da bude</p>
                  <p>Opet izmena istovremeno leva</p>
