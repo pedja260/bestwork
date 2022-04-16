@@ -6,6 +6,7 @@ import React, {Component} from "react";
                  <h1>New Work 8</h1>
                  <h2>Stanje c</h2>
                  <h2>Stanje d - experimentalna grana</h2>
+                 <h2>Stanje e f g</h2>
                  <h2>treca izmena izmena</h2>
                  <h3>Sada sam sa developa!</h3>
                  <p>izmena iz code</p>
