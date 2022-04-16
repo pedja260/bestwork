@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9eba04dd-5669-4316-a66f-36aa3569a502" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/components/NewWork.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/NewWork.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +51,7 @@
       <option name="presentableId" value="Default" />
       <updated>1644661055483</updated>
       <workItem from="1644661056622" duration="11378000" />
-      <workItem from="1650105507301" duration="2945000" />
+      <workItem from="1650105507301" duration="4300000" />
     </task>
     <servers />
   </component>
